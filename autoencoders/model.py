@@ -9,7 +9,7 @@ from torch.nn import functional as F
 
 class GSC(nn.Module):
     """
-    Grouped Spatial Convolution (GSC) module.
+    GroupNorm -> SiLU -> Conv2d module.
 
     Args:
         in_channels (int): Number of input channels.
