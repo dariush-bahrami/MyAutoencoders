@@ -1,3 +1,3 @@
 # MyAutoencoders
 
-This project contains an implementation of an Autoencoder using PyTorch.
+This project contains implementation of Autoencoders using PyTorch.
